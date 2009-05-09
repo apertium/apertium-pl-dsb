@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- Lower Sorbian -->
 <dictionary>
   <alphabet>ABCČDEFGHIJKŁLMNOPRSŠŚTUWYZŽŹabcčćdeěfghijkłlmnńoprŕsšśtuwyzžź</alphabet>
@@ -2957,6 +2957,226 @@
         </p>
       </e>
     </pardef>
+    <pardef n="kó/ń__n">
+      <e>
+        <p>
+          <l>nja</l>
+          <r>ń<s n="n"/><s n="ma"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>njoju</l>
+          <r>ń<s n="n"/><s n="ma"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>nja</l>
+          <r>ń<s n="n"/><s n="ma"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>nju</l>
+          <r>ń<s n="n"/><s n="ma"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>njom</l>
+          <r>ń<s n="n"/><s n="ma"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ń</l>
+          <r>ń<s n="n"/><s n="ma"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>njowu</l>
+          <r>ń<s n="n"/><s n="ma"/><s n="du"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>njoma</l>
+          <r>ń<s n="n"/><s n="ma"/><s n="du"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>nja</l>
+          <r>ń<s n="n"/><s n="ma"/><s n="du"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>njoma</l>
+          <r>ń<s n="n"/><s n="ma"/><s n="du"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>njoma</l>
+          <r>ń<s n="n"/><s n="ma"/><s n="du"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>nja</l>
+          <r>ń<s n="n"/><s n="ma"/><s n="du"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>njow</l>
+          <r>ń<s n="n"/><s n="ma"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>njam</l>
+          <r>ń<s n="n"/><s n="ma"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>nje</l>
+          <r>ń<s n="n"/><s n="ma"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>njach</l>
+          <r>ń<s n="n"/><s n="ma"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>njami</l>
+          <r>ń<s n="n"/><s n="ma"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>nje</l>
+          <r>ń<s n="n"/><s n="ma"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="/źeń__n">
+      <e>
+        <p>
+          <l>dnja</l>
+          <r>źeń<s n="n"/><s n="mi"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dnju</l>
+          <r>źeń<s n="n"/><s n="mi"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>źeń</l>
+          <r>źeń<s n="n"/><s n="mi"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dnju</l>
+          <r>źeń<s n="n"/><s n="mi"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dnjom</l>
+          <r>źeń<s n="n"/><s n="mi"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>źeń</l>
+          <r>źeń<s n="n"/><s n="mi"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dnjowu</l>
+          <r>źeń<s n="n"/><s n="mi"/><s n="du"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dnjoma</l>
+          <r>źeń<s n="n"/><s n="mi"/><s n="du"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dnja</l>
+          <r>źeń<s n="n"/><s n="mi"/><s n="du"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dnjoma</l>
+          <r>źeń<s n="n"/><s n="mi"/><s n="du"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dnjoma</l>
+          <r>źeń<s n="n"/><s n="mi"/><s n="du"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dnja</l>
+          <r>źeń<s n="n"/><s n="mi"/><s n="du"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dnjow</l>
+          <r>źeń<s n="n"/><s n="mi"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dnjam</l>
+          <r>źeń<s n="n"/><s n="mi"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dny</l>
+          <r>źeń<s n="n"/><s n="mi"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dnjach</l>
+          <r>źeń<s n="n"/><s n="mi"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dnjami</l>
+          <r>źeń<s n="n"/><s n="mi"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dny</l>
+          <r>źeń<s n="n"/><s n="mi"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
 
   </pardefs>
   <section id="main" type="standard">
@@ -2965,6 +3185,8 @@
     <!-- nouns -->
     <e lm="tyźeń"><i>tyźe</i><par n="tyźe/ń__n"/></e>
     <e lm="pjakaŕ"><i>pjaka</i><par n="pjaka/ŕ__n"/></e>
+    <e lm="kóń"><i>kó</i><par n="kó/ń__n"/></e>
+    <e lm="źeń"><i></i><par n="/źeń__n"/></e>
     <e lm="fabrikacija"><i>fabrikacij</i><par n="fabrikacij/a__n"/></e>
     <e lm="telewizija"><i>telewizij</i><par n="fabrikacij/a__n"/></e>
     <e lm="šula"><i>šul</i><par n="fabrikacij/a__n"/></e>
