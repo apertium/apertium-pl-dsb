@@ -3,12 +3,14 @@
   <alphabet/>
 
   <section id="numbers" type="standard">
+    <e><p><l>co<s n="det"/><s n="itg"/></l><r>co<s n="det"/><s n="itg"/></r></p></e>
+    <e><p><l>cóż<s n="det"/><s n="itg"/></l><r>což<s n="det"/><s n="itg"/></r></p></e>
+  
     <e><p><l>jeden<s n="num"/></l><r>jaden<s n="num"/></r></p></e>
     <e><p><l>dwa<s n="num"/></l><r>dwa<s n="num"/></r></p></e>
     <e><p><l>trzy<s n="num"/></l><r>tśi<s n="num"/></r></p></e>
     <e><p><l>cztery<s n="num"/></l><r>styri<s n="num"/></r></p></e>
-  </section>
-  <section id="months" type="standard">
+
     <e><p><l>styczeń<s n="n"/><s n="mi"/></l><r>januar<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>luty<s n="n"/><s n="mi"/></l><r>februar<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>marzec<s n="n"/><s n="mi"/></l><r>měrc<s n="n"/><s n="mi"/></r></p></e>
@@ -21,8 +23,7 @@
     <e><p><l>październik<s n="n"/><s n="mi"/></l><r>oktober<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>listopad<s n="n"/><s n="mi"/></l><r>nowember<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>grudzień<s n="n"/><s n="mi"/></l><r>december<s n="n"/><s n="mi"/></r></p></e>
-  </section>
-  <section id="places" type="standard">
+
     <e><p><l>Afrika<s n="np"/><s n="top"/><s n="f"/></l><r>Afrika<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Amerika<s n="np"/><s n="top"/><s n="f"/></l><r>Amerika<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Antarktika<s n="np"/><s n="top"/><s n="f"/></l><r>Antarktika<s n="np"/><s n="top"/><s n="f"/></r></p></e>
@@ -79,8 +80,7 @@
     <e><p><l>Albania<s n="np"/><s n="top"/><s n="f"/></l><r>Albańska<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Saksonia<s n="np"/><s n="top"/><s n="f"/></l><r>Sakska<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Brandenburgia<s n="np"/><s n="top"/><s n="f"/></l><r>Bramborska<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-  </section>
-  <section id="nouns" type="standard">
+
     <e><p><l>sok<s n="n"/><s n="mi"/></l><r>mězga<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>sok<b/>jabłkowy<s n="n"/><s n="mi"/></l><r>jabłukowa<b/>mězga<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>krew<s n="n"/><s n="f"/><s n="sg"/></l><r>kšej<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
@@ -95,11 +95,9 @@
     <e><p><l>niebo<s n="n"/><s n="nt"/></l><r>njebjo<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>dzień<s n="n"/><s n="mi"/></l><r>źeń<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>koń<s n="n"/><s n="ma"/></l><r>kóń<s n="n"/><s n="ma"/></r></p></e>
-  </section>
-  <section id="conjunctions" type="standard">
+
     <e><p><l>że<s n="cnjsub"/></l><r>až<s n="cnjsub"/></r></p></e>
-  </section>
-  <section id="prepositions" type="standard">
+
     <e><p><l>od<s n="pr"/></l><r>wót<s n="pr"/></r></p></e>
     <e><p><l>do<s n="pr"/></l><r>do<s n="pr"/></r></p></e>
   </section>

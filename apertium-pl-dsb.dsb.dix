@@ -21,8 +21,91 @@
     <sdef n="acc"/>
     <sdef n="ins"/>
     <sdef n="loc"/>
+    <sdef n="np"/>
+    <sdef n="top"/>
+    <sdef n="n"/>
+    <sdef n="adv"/>
+    <sdef n="det"/>
+    <sdef n="itg"/>
+    <sdef n="nt"/>
   </sdefs>
   <pardefs>
+    <pardef n="co__det">
+      <e>
+        <p>
+	  <l>co</l>
+	  <r>co<s n="det"/><s n="itg"/><s n="nt"/><s n="sg"/><s n="nom"/></r>
+	</p>
+      </e>
+      <e>
+        <p>
+	  <l>cogo</l>
+	  <r>co<s n="det"/><s n="itg"/><s n="nt"/><s n="sg"/><s n="gen"/></r>
+	</p>
+      </e>
+      <e>
+        <p>
+	  <l>comu</l>
+	  <r>co<s n="det"/><s n="itg"/><s n="nt"/><s n="sg"/><s n="dat"/></r>
+	</p>
+      </e>
+      <e>
+        <p>
+	  <l>co</l>
+	  <r>co<s n="det"/><s n="itg"/><s n="nt"/><s n="sg"/><s n="acc"/></r>
+	</p>
+      </e>
+      <e>
+        <p>
+	  <l>cym</l>
+	  <r>co<s n="det"/><s n="itg"/><s n="nt"/><s n="sg"/><s n="ins"/></r>
+	</p>
+      </e>
+      <e>
+        <p>
+	  <l>com</l>
+	  <r>co<s n="det"/><s n="itg"/><s n="nt"/><s n="sg"/><s n="loc"/></r>
+	</p>
+      </e>
+    </pardef>
+    <pardef n="což__det">
+      <e>
+        <p>
+	  <l>což</l>
+	  <r>což<s n="det"/><s n="itg"/><s n="nt"/><s n="sg"/><s n="nom"/></r>
+	</p>
+      </e>
+      <e>
+        <p>
+	  <l>cogož</l>
+	  <r>což<s n="det"/><s n="itg"/><s n="nt"/><s n="sg"/><s n="gen"/></r>
+	</p>
+      </e>
+      <e>
+        <p>
+	  <l>comuž</l>
+	  <r>což<s n="det"/><s n="itg"/><s n="nt"/><s n="sg"/><s n="dat"/></r>
+	</p>
+      </e>
+      <e>
+        <p>
+	  <l>což</l>
+	  <r>což<s n="det"/><s n="itg"/><s n="nt"/><s n="sg"/><s n="acc"/></r>
+	</p>
+      </e>
+      <e>
+        <p>
+	  <l>cymž</l>
+	  <r>což<s n="det"/><s n="itg"/><s n="nt"/><s n="sg"/><s n="ins"/></r>
+	</p>
+      </e>
+      <e>
+        <p>
+	  <l>comž</l>
+	  <r>což<s n="det"/><s n="itg"/><s n="nt"/><s n="sg"/><s n="loc"/></r>
+	</p>
+      </e>
+    </pardef>
     <!-- m 22 -->
     <pardef n="tyźe/ń__n">
       <e>
@@ -3180,6 +3263,8 @@
 
   </pardefs>
   <section id="main" type="standard">
+    <e lm="co"><i></i><par n="co__det"/></e>
+    <e lm="což"><i></i><par n="což__det"/></e>
     <e lm="jěsć"><i>jě</i><par n="jě/sć__vblex"/></e>
     <e lm="zjěsć"><i>zjě</i><par n="zjě/sć__vblex"/></e>
     <!-- nouns -->
