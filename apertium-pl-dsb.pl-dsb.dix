@@ -103,5 +103,13 @@
 
     <e><p><l>od<s n="pr"/></l><r>wót<s n="pr"/></r></p></e>
     <e><p><l>do<s n="pr"/></l><r>do<s n="pr"/></r></p></e>
+
+    <e><p><l>jeść<s n="vblex"/><s n="imperf"/></l><r>jěsć<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>zjeść<s n="vblex"/><s n="perf"/></l><r>zjěsć<s n="vblex"/><s n="perf"/></r></p></e>
+
+<!--
+nieco	něco
+wiele	wjele
+-->
   </section>
 </dictionary>
