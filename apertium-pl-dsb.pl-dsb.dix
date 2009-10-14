@@ -76,10 +76,13 @@
     <e><p><l>Estonia<s n="np"/><s n="top"/><s n="f"/></l><r>Estniska<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Francja<s n="np"/><s n="top"/><s n="f"/></l><r>Francojska<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Grecja<s n="np"/><s n="top"/><s n="f"/></l><r>Grichiska<s n="np"/><s n="top"/><s n="f"/></r></p></e>
-    <e><p><l>Węgry<s n="np"/><s n="top"/><s n="f"/><s n="pl"/></l><r>Hungorska<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Węgry<s n="np"/><s n="top"/><s n="f"/><s n="pl"/></l><r>Hungorska<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
     <e><p><l>Albania<s n="np"/><s n="top"/><s n="f"/></l><r>Albańska<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Saksonia<s n="np"/><s n="top"/><s n="f"/></l><r>Sakska<s n="np"/><s n="top"/><s n="f"/></r></p></e>
     <e><p><l>Brandenburgia<s n="np"/><s n="top"/><s n="f"/></l><r>Bramborska<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Warszawa<s n="np"/><s n="top"/><s n="f"/></l><r>Waršawa<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Kraków<s n="np"/><s n="top"/><s n="m"/></l><r>Krakow<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+    <e><p><l>Wisła<s n="np"/><s n="hyd"/><s n="f"/></l><r>Wisła<s n="np"/><s n="hyd"/><s n="f"/></r></p></e>
 
     <e><p><l>sok<s n="n"/><s n="mi"/></l><r>mězga<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>sok<b/>jabłkowy<s n="n"/><s n="mi"/></l><r>jabłukowa<b/>mězga<s n="n"/><s n="f"/></r></p></e>
@@ -96,16 +99,34 @@
     <e><p><l>dzień<s n="n"/><s n="mi"/></l><r>źeń<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>koń<s n="n"/><s n="ma"/></l><r>kóń<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>pan<s n="n"/><s n="mp"/></l><r>kněz<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>uniwersytet<s n="n"/><s n="mi"/></l><r>uniwersita<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>rzeka<s n="n"/><s n="f"/></l><r>rěka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>orzeł<s n="n"/><s n="ma"/></l><r>jerjeł<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>węgorz<s n="n"/><s n="ma"/></l><r>wugoŕ<s n="n"/><s n="ma"/></r></p></e>
+<!-- Check
+    <e><p><l>ścierwnik<s n="n"/><s n="ma"/></l><r>sup<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>ścierwica<s n="n"/><s n="f"/></l><r>barcawa<s n="n"/><s n="f"/></r></p></e>
+-->
+    <e><p><l>stolica<s n="n"/><s n="f"/></l><r>stolica<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>miasto<s n="n"/><s n="nt"/></l><r>město<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>wysokość<s n="n"/><s n="f"/></l><r>wusokosć<s n="n"/><s n="f"/></r></p></e>
 
     <e><p><l>że<s n="cnjsub"/></l><r>až<s n="cnjsub"/></r></p></e>
+    <e r="LR"><p><l>aż<s n="cnjsub"/></l><r>až<s n="cnjsub"/></r></p></e>
     
     <e><p><l>wielki<s n="adj"/><s n="sint"/></l><r>wulki<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>zmienny<s n="adj"/></l><r>změnliwy<s n="adj"/></r></p></e>
 
     <e><p><l>od<s n="pr"/></l><r>wót<s n="pr"/></r></p></e>
     <e><p><l>do<s n="pr"/></l><r>do<s n="pr"/></r></p></e>
+    <e><p><l>pod<s n="pr"/></l><r>pód<s n="pr"/></r></p></e>
+    <e><p><l>na<s n="pr"/></l><r>na<s n="pr"/></r></p></e>
+    <e><p><l>w<s n="pr"/></l><r>w<s n="pr"/></r></p></e>
 
     <e><p><l>jeść<s n="vblex"/><s n="imperf"/></l><r>jěsć<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>zjeść<s n="vblex"/><s n="perf"/></l><r>zjěsć<s n="vblex"/><s n="perf"/></r></p></e>
+    <e><p><l>zmieniać<s n="vblex"/><s n="imperf"/></l><r>změnjaś<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>zmienić<s n="vblex"/><s n="perf"/></l><r>změniś<s n="vblex"/><s n="perf"/></r></p></e>
 
 <!--
 nieco	něco
