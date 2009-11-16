@@ -1,4 +1,5 @@
 * text=auto !eol
+/Makefile.am -text
 /apertium-pl-dsb.dsb.metadix -text
 /apertium-pl-dsb.pl-dsb.dix -text
 /buscaPar.xsl -text
