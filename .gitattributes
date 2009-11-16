@@ -1,3 +1,5 @@
 * text=auto !eol
 /apertium-pl-dsb.dsb.metadix -text
 /apertium-pl-dsb.pl-dsb.dix -text
+/buscaPar.xsl -text
+/principal.xsl -text
