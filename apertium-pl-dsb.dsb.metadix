@@ -1471,114 +1471,139 @@
         </p>
       </e>
     </pardef>
-    <pardef n="ru/ka__n">
+    <pardef n="ru/ka__BASE">
       <e>
         <p>
           <l>ka</l>
-          <r>ka<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+          <r><s n="f"/><s n="sg"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ki</l>
-          <r>ka<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+          <r><s n="f"/><s n="sg"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ce</l>
-          <r>ka<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+          <r><s n="f"/><s n="sg"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ku</l>
-          <r>ka<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+          <r><s n="f"/><s n="sg"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ku</l>
-          <r>ka<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+          <r><s n="f"/><s n="sg"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ce</l>
-          <r>ka<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+          <r><s n="f"/><s n="sg"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ce</l>
-          <r>ka<s n="n"/><s n="f"/><s n="du"/><s n="nom"/></r>
+          <r><s n="f"/><s n="du"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>kowu</l>
-          <r>ka<s n="n"/><s n="f"/><s n="du"/><s n="gen"/></r>
+          <r><s n="f"/><s n="du"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>koma</l>
-          <r>ka<s n="n"/><s n="f"/><s n="du"/><s n="dat"/></r>
+          <r><s n="f"/><s n="du"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ce</l>
-          <r>ka<s n="n"/><s n="f"/><s n="du"/><s n="acc"/></r>
+          <r><s n="f"/><s n="du"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>koma</l>
-          <r>ka<s n="n"/><s n="f"/><s n="du"/><s n="ins"/></r>
+          <r><s n="f"/><s n="du"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>koma</l>
-          <r>ka<s n="n"/><s n="f"/><s n="du"/><s n="loc"/></r>
+          <r><s n="f"/><s n="du"/><s n="loc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ki</l>
-          <r>ka<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+          <r><s n="f"/><s n="pl"/><s n="nom"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>kow</l>
-          <r>ka<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+          <r><s n="f"/><s n="pl"/><s n="gen"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>kam</l>
-          <r>ka<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+          <r><s n="f"/><s n="pl"/><s n="dat"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>ki</l>
-          <r>ka<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+          <r><s n="f"/><s n="pl"/><s n="acc"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>kami</l>
-          <r>ka<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+          <r><s n="f"/><s n="pl"/><s n="ins"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>kach</l>
-          <r>ka<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+          <r><s n="f"/><s n="pl"/><s n="loc"/></r>
         </p>
+      </e>
+    </pardef>
+    <pardef n="ru/ka__n">
+      <e>
+        <p>
+          <l></l>
+          <r>ka<s n="n"/></r>
+        </p>
+        <par n="ru/ka__BASE"/>
+      </e>
+    </pardef>
+    <pardef n="pjaka/ŕ__n_mf">
+      <e>
+        <p>
+          <l></l>
+          <r></r>
+        </p>
+        <par n="pjaka/ŕ__n"/>
+      </e>
+      <e>
+        <p>
+          <l>r</l>
+          <r>ŕ<s n="n"/></r>
+        </p>
+        <par n="ru/ka__BASE"/>
       </e>
     </pardef>
     <pardef n="dro/ga__n">
@@ -3269,7 +3294,1023 @@
     <e lm="zjěsć"><i>zjě</i><par n="zjě/sć__vblex"/></e>
     <!-- nouns -->
     <e lm="tyźeń"><i>tyźe</i><par n="tyźe/ń__n"/></e>
-    <e lm="pjakaŕ"><i>pjaka</i><par n="pjaka/ŕ__n"/></e>
+    <e lm="abstinenclaŕ"><i>abstinencla</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Afghanaŕ"><i>Afghana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Afrikanaŕ"><i>Afrikana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="afroamerikanaŕ"><i>afroamerikana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="agnostikaŕ"><i>agnostika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="akademikaŕ"><i>akademika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="akcionaŕ"><i>akciona</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Albanaŕ"><i>Albana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Algerijaŕ"><i>Algerija</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="alkoholikaŕ"><i>alkoholika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Amerikanaŕ"><i>Amerikana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="amtaŕ"><i>amta</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="analytikaŕ"><i>analytika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Andorranaŕ"><i>Andorrana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="anglikanaŕ"><i>anglikana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Angloamerikanaŕ"><i>Angloamerikana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Angolanaŕ"><i>Angolana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Anhaltinaŕ"><i>Anhaltina</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="antialkoholikaŕ"><i>antialkoholika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="antikwaŕ"><i>antikwa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="aptejkaŕ"><i>aptejka</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Arabaŕ"><i>Araba</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Argentinijaŕ"><i>Argentinija</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Arijaŕ"><i>Arija</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="armejaŕ"><i>armeja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Armenijaŕ"><i>Armenija</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="astmatikaŕ"><i>astmatika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Awstralijaŕ"><i>Awstralija</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Awstrijaŕ"><i>Awstrija</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="awtojězdźaŕ"><i>awtojězdźa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="awtozamkaŕ"><i>awtozamka</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Azerbajdžanaŕ"><i>Azerbajdžana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Babylonijaŕ"><i>Babylonija</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="bachtaŕ"><i>bachta</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Bagencaŕ"><i>Bagenca</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Bahamaŕ"><i>Bahama</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="bajaŕ"><i>baja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="bajkaŕ"><i>bajka</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Bangladešaŕ"><i>Bangladeša</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Barbukaŕ"><i>Barbuka</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Barcanaŕ"><i>Barcana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Barlinjaŕ"><i>Barlinja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="barmiksaŕ"><i>barmiksa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="barwaŕ"><i>barwa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="basketballaŕ"><i>basketballa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="baslowaŕ"><i>baslowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="basnickaŕ"><i>basnicka</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="basnikaŕ"><i>basnika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="běgaŕ"><i>běga</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Belgijaŕ"><i>Belgija</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Běłogórjanaŕ"><i>Běłogórjana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Běłogózdźanaŕ"><i>Běłogózdźana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Běłowóźanaŕ"><i>Běłowóźana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="benediktinaŕ"><i>benediktina</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Berbaŕ"><i>Berba</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="bergaŕ"><i>berga</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="berzianaŕ"><i>berziana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Bessarabijaŕ"><i>Bessarabija</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="běźaŕ"><i>běźa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="bibliotekaŕ"><i>biblioteka</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Biskupicaŕ"><i>Biskupica</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="bjatkaŕ"><i>bjatka</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="bjatowaŕ"><i>bjatowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="blidaŕ"><i>blida</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="bogaprějaŕ"><i>bogaprěja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="bogasromośaŕ"><i>bogasromośa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="boksaŕ"><i>boksa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Boliwijaŕ"><i>Boliwija</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="bomcaŕ"><i>bomca</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="bomlowaŕ"><i>bomlowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="bonaŕ"><i>bona</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Bosnijaŕ"><i>Bosnija</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="botanikaŕ"><i>botanika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Botsuanaŕ"><i>Botsuana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Bólašojcaŕ"><i>Bólašojca</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Bórkowaŕ"><i>Bórkowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="bóžyckowaŕ"><i>bóžyckowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Bramaŕ"><i>Brama</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Bramborgaŕ"><i>Bramborga</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Brazilianaŕ"><i>Braziliana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Brjazaŕ"><i>Brjaza</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Brjazkaŕ"><i>Brjazka</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Brjazynaŕ"><i>Brjazyna</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Brjazynkaŕ"><i>Brjazynka</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="brylaŕ"><i>bryla</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="brylkaŕ"><i>brylka</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="bubnowaŕ"><i>bubnowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="budkaŕ"><i>budka</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Budyšynaŕ"><i>Budyšyna</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Bulgaŕ"><i>Bulga</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="byzaŕ"><i>byza</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="campaŕ"><i>campa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="camprowaŕ"><i>camprowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Carnoafrikanaŕ"><i>Carnoafrikana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Carnogólanaŕ"><i>Carnogólana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="casnikaŕ"><i>casnika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="cazaŕ"><i>caza</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Cazowaŕ"><i>Cazowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="ceptaŕ"><i>cepta</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="cerjaŕ"><i>cerja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="chemikaŕ"><i>chemika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Chemnitzaŕ"><i>Chemnitza</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="chemotechnikaŕ"><i>chemotechnika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Chilenaŕ"><i>Chilena</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Chinezaŕ"><i>Chineza</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="chłošćaŕ"><i>chłošća</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Chmjelowaŕ"><i>Chmjelowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="cholerikaŕ"><i>cholerika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="chójźaŕ"><i>chójźa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Chóśebuzaŕ"><i>Chóśebuza</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="chóžyšćaŕ"><i>chóžyšća</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="chwataŕ"><i>chwata</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="chytaŕ"><i>chyta</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="cisterciensaŕ"><i>cisterciensa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="cłonikaŕ"><i>cłonika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="cołnaŕ"><i>cołna</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="cołnikaŕ"><i>cołnika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="cowaŕ"><i>cowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="cwiblowaŕ"><i>cwiblowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="cwjernaŕ"><i>cwjerna</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="cynikaŕ"><i>cynika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Cypraŕ"><i>Cypra</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="cytaŕ"><i>cyta</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="dalokoskokaŕ"><i>dalokoskoka</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="dawaŕ"><i>dawa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Depsčanaŕ"><i>Depsčana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Dešanaŕ"><i>Dešana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="designaŕ"><i>designa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="diabetikaŕ"><i>diabetika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="dobrośaŕ"><i>dobrośa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="dobyśaŕ"><i>dobyśa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="dobywaŕ"><i>dobywa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="dodawaŕ"><i>dodawa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="doglědowaŕ"><i>doglědowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="dojaŕ"><i>doja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="dojězdźowaŕ"><i>dojězdźowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="dolmetšaŕ"><i>dolmetša</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Dolnołužycanaŕ"><i>Dolnołužycana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="domojwrośaŕ"><i>domojwrośa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="donosowaŕ"><i>donosowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="dostawaŕ"><i>dostawa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="dowolaŕ"><i>dowola</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Drjejcanaŕ"><i>Drjejcana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Drjenowaŕ"><i>Drjenowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Drježdźanaŕ"><i>Drježdźana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="drobnomechanikaŕ"><i>drobnomechanika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="drobnostkaŕ"><i>drobnostka</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="drogowaŕ"><i>drogowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="drustwaŕ"><i>drustwa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Dubjanaŕ"><i>Dubjana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Dubrawaŕ"><i>Dubrawa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Dubrawkaŕ"><i>Dubrawka</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="duchtaŕ"><i>duchta</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="dujaŕ"><i>duja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Duringaŕ"><i>Duringa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Egyptaŕ"><i>Egypta</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="eklektikaŕ"><i>eklektika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="ekscentrikaŕ"><i>ekscentrika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Ekuadorianaŕ"><i>Ekuadoriana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="elektrikaŕ"><i>elektrika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="elektronikaŕ"><i>elektronika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="elektrotechnikaŕ"><i>elektrotechnika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Elsasaŕ"><i>Elsasa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="empirikaŕ"><i>empirika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Englandaŕ"><i>Englanda</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="epikaŕ"><i>epika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="epikurejaŕ"><i>epikureja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="epileptikaŕ"><i>epileptika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Eritrejaŕ"><i>Eritreja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="erotikaŕ"><i>erotika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Eskimaŕ"><i>Eskima</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="etikaŕ"><i>etika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Etiopijaŕ"><i>Etiopija</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Europejaŕ"><i>Europeja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Falkenbergaŕ"><i>Falkenberga</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="falšowaŕ"><i>falšowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="fanatikaŕ"><i>fanatika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="faraŕ"><i>fara</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="farmaŕ"><i>farma</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="fechtaŕ"><i>fechta</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="fidlaŕ"><i>fidla</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="fiksaŕ"><i>fiksa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="filmaŕ"><i>filma</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Flamaŕ"><i>Flama</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="flegmatikaŕ"><i>flegmatika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="flisaŕ"><i>flisa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="folkspiwaŕ"><i>folkspiwa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="formowaŕ"><i>formowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="fotoreportaŕ"><i>fotoreporta</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="franciskanaŕ"><i>franciskana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Francozaŕ"><i>Francoza</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Frankfurtaŕ"><i>Frankfurta</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Frankobrodaŕ"><i>Frankobroda</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="frezaŕ"><i>freza</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="funkcionaŕ"><i>funkciona</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="fyzikaŕ"><i>fyzika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="ganjaŕ"><i>ganja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="garbowaŕ"><i>garbowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="genetikaŕ"><i>genetika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="genslěźaŕ"><i>genslěźa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Georgijaŕ"><i>Georgija</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Ghanaŕ"><i>Ghana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="gipsowaŕ"><i>gipsowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="gjarncaŕ"><i>gjarnca</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="gjartnaŕ"><i>gjartna</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="glědaŕ"><i>glěda</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Glincanaŕ"><i>Glincana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="glukužycaŕ"><i>glukužyca</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="głažaŕ"><i>głaža</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="głažkaŕ"><i>głažka</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="głažktocaŕ"><i>głažktoca</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="gnostikaŕ"><i>gnostika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Gogolowaŕ"><i>Gogolowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Gołbinaŕ"><i>Gołbina</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Gołkojcaŕ"><i>Gołkojca</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="gołubjaŕ"><i>gołubja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Gołynkaŕ"><i>Gołynka</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="gódaŕ"><i>góda</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="gójaŕ"><i>gója</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="gólanaŕ"><i>gólana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="gólnikaŕ"><i>gólnika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="gónjaŕ"><i>gónja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="góńtwaŕ"><i>góńtwa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="góranaŕ"><i>górana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Górjanaŕ"><i>Górjana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="górnikaŕ"><i>górnika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="gósćeńcaŕ"><i>gósćeńca</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="gósćinaŕ"><i>gósćina</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="góspodaŕ"><i>góspoda</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="góspozaŕ"><i>góspoza</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="góspozowaŕ"><i>góspozowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="gótnicaŕ"><i>gótnica</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Grabinaŕ"><i>Grabina</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Grabšanaŕ"><i>Grabšana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="grafikaŕ"><i>grafika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="grajaŕ"><i>graja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="grajośaŕ"><i>grajośa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="gramatikaŕ"><i>gramatika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="granicaŕ"><i>granica</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="grawěrowaŕ"><i>grawěrowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Grěšanaŕ"><i>Grěšana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="grodaŕ"><i>groda</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Grodkaŕ"><i>Grodka</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="gronaŕ"><i>grona</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Grönlandaŕ"><i>Grönlanda</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Groźćanaŕ"><i>Groźćana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Gruzinijaŕ"><i>Gruzinija</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Guatemalaŕ"><i>Guatemala</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Gubinaŕ"><i>Gubina</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Guinejaŕ"><i>Guineja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="gumnyškaŕ"><i>gumnyška</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="gusaŕ"><i>gusa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="guslowaŕ"><i>guslowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Guyanaŕ"><i>Guyana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Hamoraŕ"><i>Hamora</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="handlaŕ"><i>handla</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Hebrejaŕ"><i>Hebreja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Hessenaŕ"><i>Hessena</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="historikaŕ"><i>historika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Hochozaŕ"><i>Hochoza</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Hollandaŕ"><i>Hollanda</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="hortnaŕ"><i>hortna</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Hurazaŕ"><i>Huraza</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Husanaŕ"><i>Husana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Husokanaŕ"><i>Husokana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Indaŕ"><i>Inda</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Indianaŕ"><i>Indiana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Jabłonjaŕ"><i>Jabłonja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="jadnaŕ"><i>jadna</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="jagaŕ"><i>jaga</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Jamaikanaŕ"><i>Jamaikana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Janšowaŕ"><i>Janšowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Japanaŕ"><i>Japana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="jebaŕ"><i>jeba</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="jěchaŕ"><i>jěcha</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="jědźaŕ"><i>jědźa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Jemenaŕ"><i>Jemena</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="jězdźaŕ"><i>jězdźa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="jěźaŕ"><i>jěźa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="jodlowaŕ"><i>jodlowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="joggowaŕ"><i>joggowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Jordanijaŕ"><i>Jordanija</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="judosportaŕ"><i>judosporta</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="justěrowaŕ"><i>justěrowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="kachlickaŕ"><i>kachlicka</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Kalawaŕ"><i>Kalawa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="kamjenaŕ"><i>kamjena</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Kamjenicaŕ"><i>Kamjenica</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="kamjenjaŕ"><i>kamjenja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Kamjeńcanaŕ"><i>Kamjeńcana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Kanadijaŕ"><i>Kanadija</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="kanclaŕ"><i>kancla</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="karuselaŕ"><i>karusela</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="kasěraŕ"><i>kasěra</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="katowaŕ"><i>katowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="kaznikaŕ"><i>kaznika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="kelnaŕ"><i>kelna</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Kibušanaŕ"><i>Kibušana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="kjacaŕ"><i>kjaca</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="kjarchobaŕ"><i>kjarchoba</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="kjarcmaŕ"><i>kjarcma</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="kjarmušaŕ"><i>kjarmuša</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="klějaŕ"><i>klěja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="klempnaŕ"><i>klempna</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="knigłaŕ"><i>knigła</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="knigłyśišćaŕ"><i>knigłyśišća</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="knigływězaŕ"><i>knigływěza</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Knorawaŕ"><i>Knorawa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="koklowaŕ"><i>koklowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="komisaŕ"><i>komisa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="konditaŕ"><i>kondita</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="kopańcaŕ"><i>kopańca</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Korejanaŕ"><i>Korejana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="kólasaŕ"><i>kólasa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="kólasowaŕ"><i>kólasowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="kónikaŕ"><i>kónika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="kórtowaŕ"><i>kórtowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="kóžkaŕ"><i>kóžka</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="krajrozměrjaŕ"><i>krajrozměrja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="kreslaŕ"><i>kresla</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="kritikaŕ"><i>kritika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Krušwicaŕ"><i>Krušwica</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="kšamaŕ"><i>kšama</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Kubanaŕ"><i>Kubana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="kubłaŕ"><i>kubła</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="kuchaŕ"><i>kucha</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="kulostarkaŕ"><i>kulostarka</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Kupaŕ"><i>Kupa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="kuplowaŕ"><i>kuplowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="kupowaŕ"><i>kupowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="kwekaŕ"><i>kweka</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="kwětaškaŕ"><i>kwětaška</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="kwětkaŕ"><i>kwětka</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="lakěraŕ"><i>lakěra</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Laplandaŕ"><i>Laplanda</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="layoutaŕ"><i>layouta</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="lazowaŕ"><i>lazowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="lěbgoźaŕ"><i>lěbgoźa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="legastenikaŕ"><i>legastenika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Lěgnicaŕ"><i>Lěgnica</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Leonaŕ"><i>Leona</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="lětaŕ"><i>lěta</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="lěwicaŕ"><i>lěwica</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Lěźanaŕ"><i>Lěźana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Libanezaŕ"><i>Libaneza</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Libanojcaŕ"><i>Libanojca</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Liberianaŕ"><i>Liberiana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="librowaŕ"><i>librowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Libyjaŕ"><i>Libyja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="licaŕ"><i>lica</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Liechtensteinaŕ"><i>Liechtensteina</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="liliputanaŕ"><i>liliputana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Limbargaŕ"><i>Limbarga</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Lipjanaŕ"><i>Lipjana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Lipsčanaŕ"><i>Lipsčana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Liškowaŕ"><i>Liškowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="listaŕ"><i>lista</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="listowaŕ"><i>listowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="listynosaŕ"><i>listynosa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="listypisaŕ"><i>listypisa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Litawaŕ"><i>Litawa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="logikaŕ"><i>logika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="logistikaŕ"><i>logistika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="lokomotiwaŕ"><i>lokomotiwa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Lothringaŕ"><i>Lothringa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="lottograjaŕ"><i>lottograja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Lubijaŕ"><i>Lubija</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Lubinaŕ"><i>Lubina</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Lubnjowaŕ"><i>Lubnjowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Luborazaŕ"><i>Luboraza</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Lubošcanaŕ"><i>Lubošcana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="lubowaŕ"><i>lubowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="lumpaŕ"><i>lumpa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="lutheranaŕ"><i>lutherana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Lutolaŕ"><i>Lutola</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Lutowaŕ"><i>Lutowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Luxemburgaŕ"><i>Luxemburga</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="lyrikaŕ"><i>lyrika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Łakomaŕ"><i>Łakoma</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Łatynoamerikanaŕ"><i>Łatynoamerikana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="łatyńšćinaŕ"><i>łatyńšćina</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="łdgaŕ"><i>łdga</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="łoźaŕ"><i>łoźa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Łuchowaŕ"><i>Łuchowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Łukowaŕ"><i>Łukowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Łužycanaŕ"><i>Łužycana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="łykaŕ"><i>łyka</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Madagaskaŕ"><i>Madagaska</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Majbergaŕ"><i>Majberga</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Makedonijaŕ"><i>Makedonija</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="maklaŕ"><i>makla</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Malayzijaŕ"><i>Malayzija</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Malediwaŕ"><i>Malediwa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Maliaŕ"><i>Malia</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Mallorcanaŕ"><i>Mallorcana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="małobergaŕ"><i>małoberga</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="manźelstwołamaŕ"><i>manźelstwołama</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="markaŕ"><i>marka</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Marokkanaŕ"><i>Marokkana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="martraŕ"><i>martra</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="matematikaŕ"><i>matematika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Mauretanijaŕ"><i>Mauretanija</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Maznikaŕ"><i>Maznika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="mechanikaŕ"><i>mechanika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="mechatronikaŕ"><i>mechatronika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Mecklenburgaŕ"><i>Mecklenburga</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="medicinaŕ"><i>medicina</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="mějaŕ"><i>měja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="mejstaŕ"><i>mejsta</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="melancholikaŕ"><i>melancholika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="měrjaŕ"><i>měrja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="měsaŕ"><i>měsa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="měšaŕ"><i>měša</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="měsćanaŕ"><i>měsćana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="měškaŕ"><i>měška</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="metalaŕ"><i>metala</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="metodikaŕ"><i>metodika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Mexikanaŕ"><i>Mexikana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Mezopotamijaŕ"><i>Mezopotamija</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="miksowaŕ"><i>miksowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="miliardaŕ"><i>miliarda</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="milionaŕ"><i>miliona</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="ministaŕ"><i>minista</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="misionaŕ"><i>misiona</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Mišnjanaŕ"><i>Mišnjana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="mjazywikowaŕ"><i>mjazywikowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="mjazywołaŕ"><i>mjazywoła</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="mjelcaŕ"><i>mjelca</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="mjenaŕ"><i>mjena</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="młynikaŕ"><i>młynika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="modelaŕ"><i>modela</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="mofajězdźaŕ"><i>mofajězdźa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="mohamedanaŕ"><i>mohamedana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Moldawijaŕ"><i>Moldawija</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Monegasaŕ"><i>Monegasa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Montenegrinaŕ"><i>Montenegrina</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="mordaŕ"><i>morda</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Mosambikanaŕ"><i>Mosambikana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="mountainbikaŕ"><i>mountainbika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="mócnaŕ"><i>mócna</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="módlaŕ"><i>módla</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="mólaŕ"><i>móla</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Mósćanaŕ"><i>Mósćana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="mudrostaŕ"><i>mudrosta</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="multimilionaŕ"><i>multimiliona</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="murjaŕ"><i>murja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="muśaŕ"><i>muśa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="muzikaŕ"><i>muzika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Myanmaraŕ"><i>Myanmara</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="myslaŕ"><i>mysla</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="mystikaŕ"><i>mystika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Myšynaŕ"><i>Myšyna</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="nadawkaŕ"><i>nadawka</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="nadawkdawaŕ"><i>nadawkdawa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="nadawkidawaŕ"><i>nadawkidawa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="nadejźaŕ"><i>nadejźa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="naduwaŕ"><i>naduwa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="najmaŕ"><i>najma</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="nakupowaŕ"><i>nakupowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="namakaŕ"><i>namaka</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="namšaŕ"><i>namša</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="napadowaŕ"><i>napadowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="napódobnjowaŕ"><i>napódobnjowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="napšašowaŕ"><i>napšašowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="narodninaŕ"><i>narodnina</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="naslědowaŕ"><i>naslědowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="nastajaŕ"><i>nastaja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="naštyrjaŕ"><i>naštyrja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="natwarjaŕ"><i>natwarja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="nawjedowaŕ"><i>nawjedowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="nawlekaŕ"><i>nawleka</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="něgronjaŕ"><i>něgronja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="neurotikaŕ"><i>neurotika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Nisčanaŕ"><i>Nisčana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Nižozemjanaŕ"><i>Nižozemjana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Njabožkojcanaŕ"><i>Njabožkojcana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="njasaŕ"><i>njasa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="njedochójźaŕ"><i>njedochójźa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="njedocynjaŕ"><i>njedocynja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="njekurjaŕ"><i>njekurja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="njeplěwaŕ"><i>njeplěwa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="njerejowaŕ"><i>njerejowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="njewólaŕ"><i>njewóla</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="njewuchójźaŕ"><i>njewuchójźa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="nosaŕ"><i>nosa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="notaŕ"><i>nota</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Nowocalaŕ"><i>Nowocala</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Nowoniwaŕ"><i>Nowoniwa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Nowsanaŕ"><i>Nowsana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="nukaŕ"><i>nuka</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="numismatikaŕ"><i>numismatika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="nurjaŕ"><i>nurja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="optikaŕ"><i>optika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Palestinensaŕ"><i>Palestinensa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="parkowaŕ"><i>parkowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="parlamentarijaŕ"><i>parlamentarija</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="partnaŕ"><i>partna</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pasaŕ"><i>pasa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pašowaŕ"><i>pašowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pcołkaŕ"><i>pcołka</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pěškowaŕ"><i>pěškowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pěsnjaŕ"><i>pěsnja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Picanaŕ"><i>Picana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pisaŕ"><i>pisa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pismostajaŕ"><i>pismostaja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pjakaŕ"><i>pjaka</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pjerinaŕ"><i>pjerina</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pleśaŕ"><i>pleśa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="plěwaŕ"><i>plěwa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="płachtowaŕ"><i>płachtowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="płaśaŕ"><i>płaśa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="płataŕ"><i>płata</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="policajaŕ"><i>policaja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="politikaŕ"><i>politika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pomagaŕ"><i>pomaga</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pomogaŕ"><i>pomoga</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pomsćaŕ"><i>pomsća</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Popojcaŕ"><i>Popojca</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Portugizaŕ"><i>Portugiza</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="postaŕ"><i>posta</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="powědaŕ"><i>powěda</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="powěsćaŕ"><i>powěsća</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="póbitowaŕ"><i>póbitowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="póbóžnikaŕ"><i>póbóžnika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pódawaŕ"><i>pódawa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pódnajmaŕ"><i>pódnajma</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pódpalowaŕ"><i>pódpalowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pódpěraŕ"><i>pódpěra</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pódpěrowaŕ"><i>pódpěrowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pódpołnocaŕ"><i>pódpołnoca</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pódsłuchaŕ"><i>pódsłucha</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pódtłocowaŕ"><i>pódtłocowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pógónjaŕ"><i>pógónja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pójmaŕ"><i>pójma</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pókładypytaŕ"><i>pókładypyta</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="póraźowaŕ"><i>póraźowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pósćiwaŕ"><i>pósćiwa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pósrědnjaŕ"><i>pósrědnja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pósuźowaŕ"><i>pósuźowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pótajmnosćaŕ"><i>pótajmnosća</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pówoblicowaŕ"><i>pówoblicowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="póžedaŕ"><i>póžeda</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="póznawaŕ"><i>póznawa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="póžycaŕ"><i>póžyca</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="póžywaŕ"><i>póžywa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="praktikaŕ"><i>praktika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="prawobydlaŕ"><i>prawobydla</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="prawólaŕ"><i>prawóla</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="prěkimyslaŕ"><i>prěkimysla</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="prěkowaŕ"><i>prěkowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Prizaŕ"><i>Priza</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="prjatkaŕ"><i>prjatka</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="prjatkowaŕ"><i>prjatkowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Prjawozaŕ"><i>Prjawoza</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="procowaŕ"><i>procowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="profisportaŕ"><i>profisporta</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="programěraŕ"><i>programěra</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="prowstaŕ"><i>prowsta</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="proznaŕ"><i>prozna</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pšašaŕ"><i>pšaša</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pšawicaŕ"><i>pšawica</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pšosaŕ"><i>pšosa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pšužynaŕ"><i>pšužyna</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pśebytkaŕ"><i>pśebytka</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pśechójźowaŕ"><i>pśechójźowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pśedawaŕ"><i>pśedawa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pśedewześaŕ"><i>pśedewześa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Pśedpomorjaŕ"><i>Pśedpomorja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pśedrentnaŕ"><i>pśedrentna</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pśedsedaŕ"><i>pśedseda</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pśedstajaŕ"><i>pśedstaja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pśeglědowaŕ"><i>pśeglědowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pśegrěšaŕ"><i>pśegrěša</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pśekupcaŕ"><i>pśekupca</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pśekupowaŕ"><i>pśekupowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pśełožowaŕ"><i>pśełožowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pśemóžaŕ"><i>pśemóža</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pśemudrowaŕ"><i>pśemudrowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pśenowjaŕ"><i>pśenowja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pśepowdawaŕ"><i>pśepowdawa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pśepóžycaŕ"><i>pśepóžyca</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pśepytowaŕ"><i>pśepytowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pśesedlaŕ"><i>pśesedla</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pśesedowaŕ"><i>pśesedowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pśespytowaŕ"><i>pśespytowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pśestajaŕ"><i>pśestaja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pśestupowaŕ"><i>pśestupowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pśeśiwjaŕ"><i>pśeśiwja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pśetrjebaŕ"><i>pśetrjeba</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pśewóźowaŕ"><i>pśewóźowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pśewrośaŕ"><i>pśewrośa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pśewuknjaŕ"><i>pśewuknja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pśěźaŕ"><i>pśěźa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pśibogaŕ"><i>pśiboga</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pśibrjogaŕ"><i>pśibrjoga</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pśidrogowaŕ"><i>pśidrogowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pśiglědowaŕ"><i>pśiglědowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pśigótowaŕ"><i>pśigótowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pśigranicowaŕ"><i>pśigranicowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pśikiwaŕ"><i>pśikiwa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Pśiłukaŕ"><i>Pśiłuka</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pśimaŕ"><i>pśima</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pśinosowaŕ"><i>pśinosowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pśinuzkowaŕ"><i>pśinuzkowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pśipowěźaŕ"><i>pśipowěźa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pśirejtowaŕ"><i>pśirejtowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pśirězowaŕ"><i>pśirězowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pśirodošćitaŕ"><i>pśirodošćita</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pśirucaŕ"><i>pśiruca</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pśisedaŕ"><i>pśiseda</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pśisedlaŕ"><i>pśisedla</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pśisłodnikowaŕ"><i>pśisłodnikowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pśisłuchaŕ"><i>pśisłucha</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pśiśěgaŕ"><i>pśiśěga</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="puritanaŕ"><i>puritana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="putnikowaŕ"><i>putnikowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Pynowaŕ"><i>Pynowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="pytaŕ"><i>pyta</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="raděrowaŕ"><i>raděrowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Radojzaŕ"><i>Radojza</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Radowańkaŕ"><i>Radowańka</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Radowizaŕ"><i>Radowiza</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Radušanaŕ"><i>Radušana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="randalěraŕ"><i>randalěra</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="rebelaŕ"><i>rebela</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="rědnošuflitowaŕ"><i>rědnošuflitowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="reformaŕ"><i>reforma</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="rejtaŕ"><i>rejta</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="rekordlaŕ"><i>rekordla</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="rentnaŕ"><i>rentna</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="repaŕ"><i>repa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="reportaŕ"><i>reporta</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="rěšaŕ"><i>rěša</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="retorikaŕ"><i>retorika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="reumatikaŕ"><i>reumatika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="rewolucionaŕ"><i>rewoluciona</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="rězbaŕ"><i>rězba</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Rheinlandaŕ"><i>Rheinlanda</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Rikanaŕ"><i>Rikana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="robotaŕ"><i>robota</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Rogeńcaŕ"><i>Rogeńca</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Rogozanaŕ"><i>Rogozana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="rolnikaŕ"><i>rolnika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="romantikaŕ"><i>romantika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Romaŕ"><i>Roma</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="rozchójźowaŕ"><i>rozchójźowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="rozdrosćaŕ"><i>rozdrosća</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="rozdrosćowaŕ"><i>rozdrosćowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="rozkazowaŕ"><i>rozkazowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="rozmyslowaŕ"><i>rozmyslowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="roznosowaŕ"><i>roznosowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="rozpšawjaŕ"><i>rozpšawja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="rozwjaselowaŕ"><i>rozwjaselowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="rubjaŕ"><i>rubja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Rubynaŕ"><i>Rubyna</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="rucaŕ"><i>ruca</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="rucnikaŕ"><i>rucnika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="rukowaŕ"><i>rukowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="rulkowaŕ"><i>rulkowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="rybakaŕ"><i>rybaka</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="rybaŕ"><i>ryba</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="ryśaŕ"><i>ryśa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="rytmikaŕ"><i>rytmika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="šafnaŕ"><i>šafna</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Salvadorianaŕ"><i>Salvadoriana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Sambijaŕ"><i>Sambija</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="samokněžaŕ"><i>samokněža</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="samorozwjaselaŕ"><i>samorozwjasela</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="samosemordaŕ"><i>samosemorda</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="samotaŕ"><i>samota</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="samowobsejźaŕ"><i>samowobsejźa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="samozasłužowaŕ"><i>samozasłužowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="sanitetaŕ"><i>saniteta</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="sańkowaŕ"><i>sańkowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="šapaŕ"><i>šapa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Sardinijaŕ"><i>Sardinija</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="satirikaŕ"><i>satirika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Sauerlandaŕ"><i>Sauerlanda</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Schwerinaŕ"><i>Schwerina</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="šćitaŕ"><i>šćita</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="šćokaŕ"><i>šćoka</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="šćuwaŕ"><i>šćuwa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="sebjemordaŕ"><i>sebjemorda</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="sebjepśedstajaŕ"><i>sebjepśedstaja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="sebjezastaraŕ"><i>sebjezastara</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="sedlaŕ"><i>sedla</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Sedlišćanaŕ"><i>Sedlišćana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="sedymźasetkaŕ"><i>sedymźasetka</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="šefkuchaŕ"><i>šefkucha</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Šejnejdaŕ"><i>Šejnejda</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="sektěraŕ"><i>sektěra</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Semtynjaŕ"><i>Semtynja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Senegalaŕ"><i>Senegala</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Senegalezaŕ"><i>Senegaleza</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="šepjeraŕ"><i>šepjera</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="šepjerjaŕ"><i>šepjerja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="serbšćinaŕ"><i>serbšćina</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="serwěraŕ"><i>serwěra</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="seśaŕ"><i>seśa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Seychellaŕ"><i>Seychella</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="sfalšowaŕ"><i>sfalšowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Sibirijaŕ"><i>Sibirija</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Sicilianaŕ"><i>Siciliana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Simbabwaŕ"><i>Simbabwa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="sinfonikaŕ"><i>sinfonika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="šismatikaŕ"><i>šismatika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Skandinawijaŕ"><i>Skandinawija</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="skazaŕ"><i>skaza</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="skazowaŕ"><i>skazowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="skeptikaŕ"><i>skeptika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Skjarbošcanaŕ"><i>Skjarbošcana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="skjaržbaŕ"><i>skjaržba</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="skokaŕ"><i>skoka</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="škódowaŕ"><i>škódowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Škódowaŕ"><i>Škódowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="skóńcowaŕ"><i>skóńcowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="škrějaŕ"><i>škrěja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="škrickowaŕ"><i>škrickowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="skśiwźaŕ"><i>skśiwźa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Šlazyngaŕ"><i>Šlazynga</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Slěpjanaŕ"><i>Slěpjana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="slěźaŕ"><i>slěźa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Šlichowaŕ"><i>Šlichowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="šlodaŕ"><i>šloda</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="šludrowaŕ"><i>šludrowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="słodnikaŕ"><i>słodnika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="směšaŕ"><i>směša</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Smogorjowaŕ"><i>Smogorjowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="šmuglowaŕ"><i>šmuglowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="sněgakowaŕ"><i>sněgakowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="snuchlaŕ"><i>snuchla</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="sobubergaŕ"><i>sobuberga</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="sobudrogowaŕ"><i>sobudrogowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="sobugrajaŕ"><i>sobugraja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="sobujězdźaŕ"><i>sobujězdźa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="sobunjestatkaŕ"><i>sobunjestatka</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="sobuskjaržbaŕ"><i>sobuskjaržba</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="sobuwobsejźaŕ"><i>sobuwobsejźa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="sobuwobydlaŕ"><i>sobuwobydla</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="sobuwójowaŕ"><i>sobuwójowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="sobuwudawaŕ"><i>sobuwudawa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="sobuzałožowaŕ"><i>sobuzałožowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="sodłaŕ"><i>sodła</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Sokolnicaŕ"><i>Sokolnica</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="šolastikaŕ"><i>šolastika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Španijaŕ"><i>Španija</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="spěchowaŕ"><i>spěchowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="spěšnošuflitowaŕ"><i>spěšnošuflitowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="spisaŕ"><i>spisa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="špisaŕ"><i>špisa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="spiwaŕ"><i>spiwa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="sportaŕ"><i>sporta</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="sprintaŕ"><i>sprinta</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="spytowaŕ"><i>spytowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Srjejźnoamerikanaŕ"><i>Srjejźnoamerikana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Srjejźnoeuropejaŕ"><i>Srjejźnoeuropeja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="sromośaŕ"><i>sromośa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="stajaŕ"><i>staja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="stanowaŕ"><i>stanowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="štapaŕ"><i>štapa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="statikaŕ"><i>statika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="statistikaŕ"><i>statistika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="stawiznaŕ"><i>stawizna</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Strjažowaŕ"><i>Strjažowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Strobicanaŕ"><i>Strobicana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="struskaŕ"><i>struska</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="stśělaŕ"><i>stśěla</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="štumplowaŕ"><i>štumplowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="šturlowaŕ"><i>šturlowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="štyrjaŕ"><i>štyrja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="subpśedewześaŕ"><i>subpśedewześa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="šuflitowaŕ"><i>šuflitowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="sukaŕ"><i>suka</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="suknaŕ"><i>sukna</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="šulukomuźaŕ"><i>šulukomuźa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="šumlaŕ"><i>šumla</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="surfowaŕ"><i>surfowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="suwaŕ"><i>suwa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="swajźbaŕ"><i>swajźba</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Šwedaŕ"><i>Šweda</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Šwicaŕ"><i>Šwica</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Šwikawaŕ"><i>Šwikawa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="šylepjaŕ"><i>šylepja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="šyndaŕ"><i>šynda</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="śišćaŕ"><i>śišća</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="taksěraŕ"><i>taksěra</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="taktikaŕ"><i>taktika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="tapecěrowaŕ"><i>tapecěrowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="tekstaŕ"><i>teksta</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="tekstowaŕ"><i>tekstowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="teoretikaŕ"><i>teoretika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="testowaŕ"><i>testowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="tichtowaŕ"><i>tichtowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="tocaŕ"><i>toca</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="tormaŕ"><i>torma</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="trampaŕ"><i>trampa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="trenaŕ"><i>trena</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="trichinaŕ"><i>trichina</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="trjekaŕjězdźaŕ"><i>trjekaŕjězdźa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="trompetaŕ"><i>trompeta</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="troštowaŕ"><i>troštowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="tšachaŕ"><i>tšacha</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Tšadowaŕ"><i>Tšadowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="tšubjaŕ"><i>tšubja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Tšupcanaŕ"><i>Tšupcana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="tśasaŕ"><i>tśasa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="tubakaŕ"><i>tubaka</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Turjanaŕ"><i>Turjana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="turnaŕ"><i>turna</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Turnowaŕ"><i>Turnowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="twarjaŕ"><i>twarja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="twórjaŕ"><i>twórja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="tyšaŕ"><i>tyša</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Ugandaŕ"><i>Uganda</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Ukrainaŕ"><i>Ukraina</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Uruguayjaŕ"><i>Uruguayja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wabjaŕ"><i>wabja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wachaŕ"><i>wacha</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wandraŕ"><i>wandra</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wěcejwójowaŕ"><i>wěcejwójowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wěcywobźěłaŕ"><i>wěcywobźěła</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wejsanaŕ"><i>wejsana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wěšćaŕ"><i>wěšća</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Westfalaŕ"><i>Westfala</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="weterinaŕ"><i>weterina</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Wětošowaŕ"><i>Wětošowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wikowaŕ"><i>wikowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Wikowaŕ"><i>Wikowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="winicaŕ"><i>winica</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wiźaŕ"><i>wiźa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Wjascanaŕ"><i>Wjascana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wjasłowaŕ"><i>wjasłowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wjedraŕ"><i>wjedra</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wjelicaŕ"><i>wjelica</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wjelikobergaŕ"><i>wjelikoberga</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Wjelikodobrynjaŕ"><i>Wjelikodobrynja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wjelikoměsćanaŕ"><i>wjelikoměsćana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wjelikowikowaŕ"><i>wjelikowikowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Wjerbanaŕ"><i>Wjerbana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wobglědowaŕ"><i>wobglědowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wobgóspodaŕ"><i>wobgóspoda</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wobgóspodowaŕ"><i>wobgóspodowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wobguslowaŕ"><i>wobguslowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wobkněžaŕ"><i>wobkněža</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wobmywaŕ"><i>wobmywa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wobnowjaŕ"><i>wobnowja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="woboraŕ"><i>wobora</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wobradowaŕ"><i>wobradowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wobšćitowaŕ"><i>wobšćitowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wobsejźaŕ"><i>wobsejźa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wobsłužowaŕ"><i>wobsłužowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wobsromośaŕ"><i>wobsromośa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wobstaraŕ"><i>wobstara</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wobstražowaŕ"><i>wobstražowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wobswětlowaŕ"><i>wobswětlowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wobwachowaŕ"><i>wobwachowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wobwarcaŕ"><i>wobwarca</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wobydlaŕ"><i>wobydla</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wobzwarnowaŕ"><i>wobzwarnowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wobźěłaŕ"><i>wobźěła</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wobźiwowaŕ"><i>wobźiwowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="woglědaŕ"><i>woglěda</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="woglědowaŕ"><i>woglědowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wognjopraskotaŕ"><i>wognjopraskota</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wolontaŕ"><i>wolonta</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wopěraŕ"><i>wopěra</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="woplěwaŕ"><i>woplěwa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wopśisegaŕ"><i>wopśisega</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wójnaŕ"><i>wójna</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wójowaŕ"><i>wójowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wólaŕ"><i>wóla</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Wórjejcanaŕ"><i>Wórjejcana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wósebaŕ"><i>wóseba</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wóstśaŕ"><i>wóstśa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wóteběraŕ"><i>wóteběra</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wótkubłaŕ"><i>wótkubła</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wótlěkaŕ"><i>wótlěka</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wótnajmaŕ"><i>wótnajma</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wótpisowaŕ"><i>wótpisowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wótpósłaŕ"><i>wótpósła</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wótwabjaŕ"><i>wótwabja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wótwachlowaŕ"><i>wótwachlowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wótwardowaŕ"><i>wótwardowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wótwlekaŕ"><i>wótwleka</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wózykaŕ"><i>wózyka</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Wrocławaŕ"><i>Wrocława</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wrośaŕ"><i>wrośa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wrotaŕ"><i>wrota</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wuběgaŕ"><i>wuběga</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wuběgowaŕ"><i>wuběgowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wuběraŕ"><i>wuběra</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wubitowaŕ"><i>wubitowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wuchowaŕ"><i>wuchowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wudawaŕ"><i>wudawa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wudrěwaŕ"><i>wudrěwa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wudrogowaŕ"><i>wudrogowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wuformowaŕ"><i>wuformowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wugbaŕ"><i>wugba</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wugbaśaŕ"><i>wugbaśa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wuglaŕ"><i>wugla</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wugótowaŕ"><i>wugótowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wujadnaŕ"><i>wujadna</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wuklukowaŕ"><i>wuklukowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wuknjaŕ"><i>wuknja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wukopowaŕ"><i>wukopowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wukraŕ"><i>wukra</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wulětnikaŕ"><i>wulětnika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wulichowaŕ"><i>wulichowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wulicowaŕ"><i>wulicowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wuměńkaŕ"><i>wuměńka</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wumóžaŕ"><i>wumóža</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wumyslaŕ"><i>wumysla</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wunamakaŕ"><i>wunamaka</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wunosowaŕ"><i>wunosowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wunuźaŕ"><i>wunuźa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wupasowaŕ"><i>wupasowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wupóžycowaŕ"><i>wupóžycowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Württembergaŕ"><i>Württemberga</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wusedlaŕ"><i>wusedla</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wuslěźaŕ"><i>wuslěźa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wuslěźowaŕ"><i>wuslěźowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wusměšowaŕ"><i>wusměšowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wusokoskokaŕ"><i>wusokoskoka</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wustajaŕ"><i>wustaja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wuwijaŕ"><i>wuwija</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wuwjeźaŕ"><i>wuwjeźa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wuwołaŕ"><i>wuwoła</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wuwucowaŕ"><i>wuwucowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wuzgónjowaŕ"><i>wuzgónjowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wuznawaŕ"><i>wuznawa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wuzwólowaŕ"><i>wuzwólowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wužytkowaŕ"><i>wužytkowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wužywaŕ"><i>wužywa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wuźaŕ"><i>wuźa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="wuźěraŕ"><i>wuźěra</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="zabijaŕ"><i>zabija</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="zachopjaŕ"><i>zachopja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="zachopjeńkaŕ"><i>zachopjeńka</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="zagadowaŕ"><i>zagadowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="zagranjaŕ"><i>zagranja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="zagrodnikaŕ"><i>zagrodnika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Zakaznjaŕ"><i>Zakaznja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="zaklinaŕ"><i>zaklina</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="załamowaŕ"><i>załamowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="žałosćaŕ"><i>žałosća</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="załožaŕ"><i>załoža</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="zamkaŕ"><i>zamka</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Žandowaŕ"><i>Žandowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="zanjerěšaŕ"><i>zanjerěša</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="zapósłaŕ"><i>zapósła</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="zapśisegaŕ"><i>zapśisega</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="zapustaŕ"><i>zapusta</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Žargonjaŕ"><i>Žargonja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="žarjaŕ"><i>žarja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="zašćitowaŕ"><i>zašćitowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="zasedlaŕ"><i>zasedla</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="zasejpśidrogowaŕ"><i>zasejpśidrogowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="zaslěpjaŕ"><i>zaslěpja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="zasłužbaŕ"><i>zasłužba</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Zaspowaŕ"><i>Zaspowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="zastaraŕ"><i>zastara</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="zastojaŕ"><i>zastoja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="zastupjaŕ"><i>zastupja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="zastupowaŕ"><i>zastupowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="zawěsćaŕ"><i>zawěsća</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="zawinowaŕ"><i>zawinowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="zawiźaŕ"><i>zawiźa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="zawjedowaŕ"><i>zawjedowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="zawóstawaŕ"><i>zawóstawa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="zažarbowaŕ"><i>zažarbowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="zazwónjaŕ"><i>zazwónja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="zběgowaŕ"><i>zběgowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="zběraŕ"><i>zběra</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="zběžkaŕ"><i>zběžka</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="zbuźowaŕ"><i>zbuźowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="zedrankaŕ"><i>zedranka</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="zegeraŕ"><i>zegera</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="zegibowaŕ"><i>zegibowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="zeleninaŕ"><i>zelenina</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="zeleznicaŕ"><i>zeleznica</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Želowaŕ"><i>Želowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="ženjaŕ"><i>ženja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="zeštyrjaŕ"><i>zeštyrja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="zežywjowaŕ"><i>zežywjowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Zgórjelcanaŕ"><i>Zgórjelcana</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="zgótowaŕ"><i>zgótowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="zgromaźowaŕ"><i>zgromaźowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="złosnikaŕ"><i>złosnika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="złotapytaŕ"><i>złotapyta</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="złotnikaŕ"><i>złotnika</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="zmalickowaŕ"><i>zmalickowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="žnějaŕ"><i>žněja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="znicaŕ"><i>znica</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="znosowadłaŕ"><i>znosowadła</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="zranjaŕ"><i>zranja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="zubaŕ"><i>zuba</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Zušowaŕ"><i>Zušowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="zwadowaŕ"><i>zwadowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="zwarbowaŕ"><i>zwarbowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Zwěrinaŕ"><i>Zwěrina</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="zwěrjeńcaŕ"><i>zwěrjeńca</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="zwěrjetaŕ"><i>zwěrjeta</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="zwěšćelowaŕ"><i>zwěšćelowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="zwěstkaŕ"><i>zwěstka</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="zwězkaŕ"><i>zwězka</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="zwopacnjaŕ"><i>zwopacnja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="zwónoźaŕ"><i>zwónoźa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="zwucowaŕ"><i>zwucowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Žylowaŕ"><i>Žylowa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Žylowkaŕ"><i>Žylowka</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Žymjerojcaŕ"><i>Žymjerojca</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Žytawaŕ"><i>Žytawa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Žytymjaŕ"><i>Žytymja</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="žywnosćaŕ"><i>žywnosća</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="źaržaŕ"><i>źarža</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="źěłodawaŕ"><i>źěłodawa</i><par n="pjaka/ŕ__n_mf"/></e>
+    <e lm="Źiwizaŕ"><i>Źiwiza</i><par n="pjaka/ŕ__n_mf"/></e>
     <e lm="kóń"><i>kó</i><par n="kó/ń__n"/></e>
     <e lm="źeń"><i></i><par n="/źeń__n"/></e>
     <e lm="fabrikacija"><i>fabrikacij</i><par n="fabrikacij/a__n"/></e>
