@@ -4,4 +4,5 @@
 /apertium-pl-dsb.pl-dsb.dix -text
 /buscaPar.xsl -text
 dev/corp.pl -text
+dev/sentences -text
 /principal.xsl -text
