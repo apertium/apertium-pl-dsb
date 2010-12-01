@@ -5,4 +5,5 @@
 /buscaPar.xsl -text
 dev/corp.pl -text
 dev/sentences -text
+dev/sentences-bare -text
 /principal.xsl -text
