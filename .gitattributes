@@ -3,4 +3,5 @@
 /apertium-pl-dsb.dsb.metadix -text
 /apertium-pl-dsb.pl-dsb.dix -text
 /buscaPar.xsl -text
+dev/corp.pl -text
 /principal.xsl -text
