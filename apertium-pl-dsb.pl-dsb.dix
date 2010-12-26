@@ -277,6 +277,38 @@
     <e><p><l>agentka<s n="n"/><s n="f"/></l><r>agentka<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>agentura<s n="n"/><s n="f"/></l><r>agentura<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>agregat<s n="n"/><s n="mi"/></l><r>agregat<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>agresja<s n="n"/><s n="f"/></l><r>agresija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>agresywność<s n="n"/><s n="f"/></l><r>agresiwnosć<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>agresor<s n="n"/><s n="mp"/></l><r>agresor<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>agitacja<s n="n"/><s n="f"/></l><r>agitacija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>agitator<s n="n"/><s n="mp"/></l><r>agitator<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>agnostyk<s n="n"/><s n="mp"/></l><r>agnostikaŕ<s n="n"/><s n="ma"/></r></p></e>
+    <e r="RL"><p><l>agnostyk<s n="n"/><s n="mp"/></l><r>agnostikarka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>agnostycyzm<s n="n"/><s n="mi"/></l><r>agnosticizm<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>agonia<s n="n"/><s n="f"/></l><r>agonija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>agrochemia<s n="n"/><s n="f"/></l><r>agrochemija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>rolnictwo<s n="n"/><s n="nt"/></l><r>agrikultura<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>agronom<s n="n"/><s n="mp"/></l><r>agronom<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>agronomka<s n="n"/><s n="f"/></l><r>agronomka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>agronomia<s n="n"/><s n="f"/></l><r>agronomija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>agrotechnika<s n="n"/><s n="f"/></l><r>agrotechnika<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>agrariusz<s n="n"/><s n="mp"/></l><r>agrarnik<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>szydło<s n="n"/><s n="nt"/></l><r>šyłko<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>akademia<s n="n"/><s n="f"/></l><r>akademija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>instytut<s n="n"/><s n="mi"/></l><r>institut<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>akacja<s n="n"/><s n="f"/></l><r>akacija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>aklamacja<s n="n"/><s n="f"/></l><r>aklamacija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>aklimatyzacja<s n="n"/><s n="f"/></l><r>aklimatizacija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>akordeon<s n="n"/><s n="mi"/></l><r>akordeon<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>akulturacja<s n="n"/><s n="f"/></l><r>akulturacija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>akumulacja<s n="n"/><s n="f"/></l><r>akumulacija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>teoria<s n="n"/><s n="f"/></l><r>teorija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>akumulator<s n="n"/><s n="mi"/></l><r>akumulator<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>dokładność<s n="n"/><s n="f"/></l><r>akuratesa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>biernik<s n="n"/><s n="mi"/></l><r>akuzatiw<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>akwizytor<s n="n"/><s n="mp"/></l><r>akkwiziter<s n="n"/><s n="ma"/></r></p></e>
+    <e r="RL"><p><l>akwizytor<s n="n"/><s n="mp"/></l><r>akkwiziterka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>nabycie<s n="n"/><s n="nt"/></l><r>akkwizicija<s n="n"/><s n="f"/></r></p></e>
     <!-- Check
     <e><p><l>ścierwnik<s n="n"/><s n="ma"/></l><r>sup<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>ścierwica<s n="n"/><s n="f"/></l><r>barcawa<s n="n"/><s n="f"/></r></p></e>
