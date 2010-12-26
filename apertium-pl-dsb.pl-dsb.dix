@@ -255,6 +255,12 @@
     <e><p><l>zewnętrzność<s n="n"/><s n="f"/></l><r>zwenkownosć<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>eon<s n="n"/><s n="mi"/></l><r>eon<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>żyłkowanie<s n="n"/><s n="nt"/></l><r>žyłkowanje<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>niełupka<s n="n"/><s n="f"/></l><r>nažka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>koala<s n="n"/><s n="f"/></l><r>koala<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>domena<s n="n"/><s n="f"/></l><r>domena<s n="n"/><s n="f"/></r></p></e>
+    <e c="check"><p><l>eukariont<s n="n"/><s n="ma"/></l><r>eukariot<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>wiąz<s n="n"/><s n="mi"/></l><r>wěz<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>nazwa<b/>systematyczna<s n="n"/><s n="f"/></l><r>wědomnostne<b/>mě<s n="n"/><s n="nt"/></r></p></e>
 <!-- Check
     <e><p><l>ścierwnik<s n="n"/><s n="ma"/></l><r>sup<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>ścierwica<s n="n"/><s n="f"/></l><r>barcawa<s n="n"/><s n="f"/></r></p></e>
@@ -265,6 +271,7 @@
 
     <e><p><l>że<s n="cnjsub"/></l><r>až<s n="cnjsub"/></r></p></e>
     <e r="LR"><p><l>aż<s n="cnjsub"/></l><r>až<s n="cnjsub"/></r></p></e>
+    <e><p><l>aby<s n="cnjsub"/></l><r>aby<s n="cnjsub"/></r></p></e>
     
     <e><p><l>wielki<s n="adj"/><s n="sint"/></l><r>wulki<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>zmienny<s n="adj"/></l><r>změnliwy<s n="adj"/></r></p></e>
@@ -274,6 +281,8 @@
     <e><p><l>pod<s n="pr"/></l><r>pód<s n="pr"/></r></p></e>
     <e><p><l>na<s n="pr"/></l><r>na<s n="pr"/></r></p></e>
     <e><p><l>w<s n="pr"/></l><r>w<s n="pr"/></r></p></e>
+    <e><p><l>mimo<s n="pr"/></l><r>mimo<s n="pr"/></r></p></e>
+    <e><p><l>z<s n="pr"/></l><r>z<s n="pr"/></r></p></e>
 
     <e><p><l>jeść<s n="vblex"/><s n="imperf"/></l><r>jěsć<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>zjeść<s n="vblex"/><s n="perf"/></l><r>zjěsć<s n="vblex"/><s n="perf"/></r></p></e>
