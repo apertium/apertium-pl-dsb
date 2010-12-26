@@ -114,6 +114,23 @@
     <e><p><l>awanturnik<s n="n"/><s n="mp"/></l><r>dyrdak<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>awanturnica<s n="n"/><s n="f"/></l><r>dyrdawa<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>przesąd<s n="n"/><s n="mi"/></l><r>pśiwěra<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>signał<s n="n"/><s n="mi"/></l><r>signał<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>suma<s n="n"/><s n="f"/></l><r>suma<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>data<s n="n"/><s n="f"/></l><r>datum<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>termin<s n="n"/><s n="mi"/></l><r>termin<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>założenie<s n="n"/><s n="nt"/></l><r>załožk<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>katalizator<s n="n"/><s n="mi"/></l><r>katalyzator<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>matura<s n="n"/><s n="f"/></l><r>abitura<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>abiturient<s n="n"/><s n="mp"/></l><r>abiturient<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>abiturientka<s n="n"/><s n="f"/></l><r>abiturientka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>czas<s n="n"/><s n="mi"/></l><r>cas<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>liczba<s n="n"/><s n="f"/></l><r>licba<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>abonament<s n="n"/><s n="mi"/></l><r>abonement<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>abonent<s n="n"/><s n="mp"/></l><r>abonent<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>abonentka<s n="n"/><s n="f"/></l><r>abonentka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>program<s n="n"/><s n="mi"/></l><r>program<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>gwarancja<s n="n"/><s n="f"/></l><r>garantija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>prognoza<s n="n"/><s n="f"/></l><r>prognoza<s n="n"/><s n="f"/></r></p></e>
 <!-- Check
     <e><p><l>ścierwnik<s n="n"/><s n="ma"/></l><r>sup<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>ścierwica<s n="n"/><s n="f"/></l><r>barcawa<s n="n"/><s n="f"/></r></p></e>
