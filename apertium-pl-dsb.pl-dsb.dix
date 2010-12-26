@@ -158,6 +158,24 @@
     <e><p><l>adhezja<s n="n"/><s n="f"/></l><r>adhezija<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>adaptacja<s n="n"/><s n="f"/></l><r>adaptacija<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>życzenie<s n="n"/><s n="nt"/></l><r>žycenje<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>ścierwo<s n="n"/><s n="nt"/></l><r>sćerbina<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>obraz<s n="n"/><s n="mi"/></l><r>wobraz<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>dowolność<s n="n"/><s n="f"/></l><r>dowólnosć<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>spłaszczenie<s n="n"/><s n="nt"/></l><r>wopłonjenje<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>odjazd<s n="n"/><s n="mi"/></l><r>wótjězd<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>odpis<s n="n"/><s n="mi"/></l><r>wótpis<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>odpisanie<s n="n"/><s n="ni"/></l><r>wótpisanje<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>osłabienie<s n="n"/><s n="ni"/></l><r>wósłabjenje<s n="n"/><s n="nt"/></r></p></e>
+    <e><p><l>absorpcja<s n="n"/><s n="f"/></l><r>absorbcija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>kandydat<s n="n"/><s n="mp"/></l><r>kandidat<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>automatyk<s n="n"/><s n="mi"/></l><r>awtomatika<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>abstynencja<s n="n"/><s n="f"/></l><r>abstinenca<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>abstynent<s n="n"/><s n="mp"/></l><r>abstinenclaŕ<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>abstynentka<s n="n"/><s n="f"/></l><r>abstinenclarka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>abstrakcyjność<s n="n"/><s n="f"/></l><r>abstraktnosć<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>abstrakcja<s n="n"/><s n="f"/></l><r>abstrakcija<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>abstrakt<s n="n"/><s n="mi"/></l><r>abstraktum<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>odcięta<s n="n"/><s n="f"/></l><r>abscisa<s n="n"/><s n="f"/></r></p></e>
 <!-- Check
     <e><p><l>ścierwnik<s n="n"/><s n="ma"/></l><r>sup<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>ścierwica<s n="n"/><s n="f"/></l><r>barcawa<s n="n"/><s n="f"/></r></p></e>
@@ -198,6 +216,7 @@
     <e><p><l>utkać<s n="vblex"/><s n="perf"/></l><r>wutkaś<s n="vblex"/><s n="perf"/></r></p></e>
     <e><p><l>wystrzelać<s n="vblex"/><s n="imperf"/></l><r>wustśělaś<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>wystrzelić<s n="vblex"/><s n="perf"/></l><r>wustśěliś<s n="vblex"/><s n="perf"/></r></p></e>
+    <e><p><l>abstrahować<s n="vblex"/><s n="imperf"/></l><r>abstrahěrowaś<s n="vblex"/><s n="imperf"/></r></p></e>
 
 <!--
 nieco	něco
