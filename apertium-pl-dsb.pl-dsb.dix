@@ -105,6 +105,7 @@
     <e><p><l>fryzura<s n="n"/><s n="f"/></l><r>frizura<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>orzeł<s n="n"/><s n="ma"/></l><r>jerjeł<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>węgorz<s n="n"/><s n="ma"/></l><r>wugoŕ<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>skrót<s n="n"/><s n="ma"/></l><r>abrewiatura<s n="n"/><s n="f"/></r></p></e>
 <!-- Check
     <e><p><l>ścierwnik<s n="n"/><s n="ma"/></l><r>sup<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>ścierwica<s n="n"/><s n="f"/></l><r>barcawa<s n="n"/><s n="f"/></r></p></e>
@@ -129,6 +130,22 @@
     <e><p><l>zjeść<s n="vblex"/><s n="perf"/></l><r>zjěsć<s n="vblex"/><s n="perf"/></r></p></e>
     <e><p><l>zmieniać<s n="vblex"/><s n="imperf"/></l><r>změnjaś<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>zmienić<s n="vblex"/><s n="perf"/></l><r>změniś<s n="vblex"/><s n="perf"/></r></p></e>
+    <e><p><l>montować<s n="vblex"/><s n="imperf"/></l><r>montěrowaś<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>zmontować<s n="vblex"/><s n="perf"/></l><r>zmontěrowaś<s n="vblex"/><s n="perf"/></r></p></e>
+    <e><p><l>pakować<s n="vblex"/><s n="imperf"/></l><r>pakowaś<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>spakować<s n="vblex"/><s n="perf"/></l><r>spakowaś<s n="vblex"/><s n="perf"/></r></p></e>
+    <e><p><l>liczyć<s n="vblex"/><s n="imperf"/></l><r>licyś<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>policzyć<s n="vblex"/><s n="perf"/></l><r>zlicyś<s n="vblex"/><s n="perf"/></r></p></e>
+    <e><p><l>wołać<s n="vblex"/><s n="imperf"/></l><r>wołaś<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>zawołać<s n="vblex"/><s n="perf"/></l><r>zwołaś<s n="vblex"/><s n="perf"/></r></p></e>
+    <e><p><l>śrubować<s n="vblex"/><s n="imperf"/></l><r>šrubowaś<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e i="yes"><p><l>?<s n="vblex"/><s n="perf"/></l><r>zešrubowaś<s n="vblex"/><s n="perf"/></r></p></e>
+    <e><p><l>pokazywać<s n="vblex"/><s n="imperf"/></l><r>pokazowaś<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>pokazać<s n="vblex"/><s n="perf"/></l><r>pokazaś<s n="vblex"/><s n="perf"/></r></p></e>
+    <e><p><l>tkać<s n="vblex"/><s n="imperf"/></l><r>tkaś<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>utkać<s n="vblex"/><s n="perf"/></l><r>wutkaś<s n="vblex"/><s n="perf"/></r></p></e>
+    <e><p><l>wystrzelać<s n="vblex"/><s n="imperf"/></l><r>wustśělaś<s n="vblex"/><s n="imperf"/></r></p></e>
+    <e><p><l>wystrzelić<s n="vblex"/><s n="perf"/></l><r>wustśěliś<s n="vblex"/><s n="perf"/></r></p></e>
 
 <!--
 nieco	něco
