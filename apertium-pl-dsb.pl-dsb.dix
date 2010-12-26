@@ -261,7 +261,23 @@
     <e c="check"><p><l>eukariont<s n="n"/><s n="ma"/></l><r>eukariot<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>wiąz<s n="n"/><s n="mi"/></l><r>wěz<s n="n"/><s n="mi"/></r></p></e>
     <e><p><l>nazwa<b/>systematyczna<s n="n"/><s n="f"/></l><r>wědomnostne<b/>mě<s n="n"/><s n="nt"/></r></p></e>
-<!-- Check
+    <e><p><l>Afganistan<s n="np"/><s n="top"/><s n="mi"/></l><r>Afghanistan<s n="np"/><s n="top"/><s n="mi"/></r></p></e>
+    <e><p><l>Afgańczyk<s n="n"/><s n="mp"/></l><r>Afghanaŕ<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>Afganka<s n="n"/><s n="f"/></l><r>Afghanarka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Afryka<s n="np"/><s n="top"/><s n="f"/></l><r>Afrika<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+    <e><p><l>Afrykanin<s n="n"/><s n="mp"/></l><r>Afrikanaŕ<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>Afrykanka<s n="n"/><s n="f"/></l><r>Afrikanarka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>Afroamerykanin<s n="n"/><s n="mp"/></l><r>Afroamerikanaŕ<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>Afroamerykanka<s n="n"/><s n="f"/></l><r>Afroamerikanarka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>aflatoksyna<s n="n"/><s n="f"/></l><r>aflatoksin<s n="n"/><s n="mi"/></r></p></e>
+    <e><p><l>afrykata<s n="n"/><s n="f"/></l><r>afrikata<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>agenda<s n="n"/><s n="f"/></l><r>agenda<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>agawa<s n="n"/><s n="f"/></l><r>agawa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>agent<s n="n"/><s n="mp"/></l><r>agent<s n="n"/><s n="ma"/></r></p></e>
+    <e><p><l>agentka<s n="n"/><s n="f"/></l><r>agentka<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>agentura<s n="n"/><s n="f"/></l><r>agentura<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>agregat<s n="n"/><s n="mi"/></l><r>agregat<s n="n"/><s n="mi"/></r></p></e>
+    <!-- Check
     <e><p><l>ścierwnik<s n="n"/><s n="ma"/></l><r>sup<s n="n"/><s n="ma"/></r></p></e>
     <e><p><l>ścierwica<s n="n"/><s n="f"/></l><r>barcawa<s n="n"/><s n="f"/></r></p></e>
 -->
